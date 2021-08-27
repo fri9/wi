@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 ,CANAL 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8
+#EXTINF:-1 ,CANAL 11
+https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
+#EXTINF:-1 ,AZTECA UNO OP3
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 ,AZTECA UNO OP5
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1923
+#EXTINF:-1 ,AZTECA UNO OP6
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1970
+#EXTINF:-1 ,AZTECA UNO TOTAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=7&format=HLSAD&f=.m3u8
+#EXTINF:-1 ,AZTECA 7 OP5
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1957
+#EXTINF:-1 ,AZTECA 7 OP 6
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1930
+#EXTINF:-1 ,AZTECA 7 TOTAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=21&format=HLSAD&f=.m3u8
+#EXTINF:-1 ,LAS ESTRELLA OP3
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1918
+#EXTINF:-1 ,ESTRELLA TOTAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=17&format=HLSAD&f=.m3u8
+#EXTINF:-1 ,CANAL 5 TOTAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=20&format=HLSAD&f=.m3u8
+#EXTINF:-1 ,BANDAMAX OP2
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/2146
+#EXTINF:-1 ,BANDAMAX TOTAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=u77iemvd0bgw1el&lchId=221&format=HLSAD&f=.m3u8
+#EXTINF:-1 ,CONECTA TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,DISTRITO COMEDIA OP4
+https://qlobbidev.s.llnwi.net/bpk-tv/HISTORY2/hls/index.m3u8
+#EXTINF:-1 ,DISTRITO COMEDIA OP5
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/3285
+#EXTINF:-1 ,COMEDI CENTRAL HD
+http://201.220.141.118:8000/play/a066/index.m3u8 
+#EXTINF:-1 ,COMEDY CENTRAL HD OP 2
+http://158.69.62.208:8081/live/COMEDY_CENTRAL_HD/chunks.m3u8 
+#EXTINF:-1, ANIMAL PLANET 
+http://201.220.141.118:8000/play/a0ew/index.m3u8 
+#EXTINF:-1 ,CARTOON NETWOR
+http://201.220.141.118:8000/play/a00y/index.m3u8
+#EXTINF:-1 ,ESTRELLA TV LAT 
+https://estrellatv-roku.amagi.tv/playlist.m3u8 
+#EXTINF:-1 ,GALAVISION
+http://tv.iptv5latino.cl:8080/1wilmaru/mvzsGgWzmk/3826
+#EXTINF:-1 ,UNIVISION MIAMI
+http://51.81.83.56:8081/live/UnivisionNY/chunks.m3u8
+#EXTINF:-1 ,PASIONES OP2
+http://200.107.234.74:8000/play/a06p/index.m3u8
+#EXTINF:-1 ,RCN INTERNACIONAL
+https://qlobbidev.s.llnwi.net:443/bpk-tv/RCN/hls/RCN-audio_128049_spa=128000-video=1900000.m3u8
+#EXTINF:-1 ,RCN NOVELAS
+https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/index.m3u8
+#EXTINF:-1 ,CHAVO DEL OCHO
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+#EXTINF:-1 ,NARUTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=eba192f4-cd23-11eb-9091-0242ac110002&sid=eba192f4-cd23-11eb-9091-0242ac110002&userId=" 
+#EXTINF:-1 ,LOS SIMPSON 
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1 ,PLUTO ACCION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=397886a0-cd21-11eb-bd6e-0242ac110002&sid=397886a0-cd21-11eb-bd6e-0242ac110002&userId="
+#EXTINF:-1 ,PLUTO MTV PRANKS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.6716&deviceLon=-98.8178&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=1fcf5748-cd23-11eb-8f91-0242ac110002&sid=1fcf5748-cd23-11eb-8f91-0242ac110002&userId="
+#EXTINF:-1 ,PLUTO HUMOR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=bf28769c-cd23-11eb-8497-0242ac110002&sid=bf28769c-cd23-11eb-8497-0242ac110002&userId="
+#EXTINF:-1 ,PLUTO COMEDY CENTRAL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=d33f16fe-cd23-11eb-8382-0242ac110002&sid=d33f16fe-cd23-11eb-8382-0242ac110002&userId=" 
+#EXTINF:-1 ,DIRECTV SPORT SPLIK 1
+http://b7489-g9.hd2.cdn.spliktv.xyz:80/DEP_DIRECTV_PLUS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,DIRECTV SPORT SPLIK 2
+http://b7489-g9.hd2.cdn.spliktv.xyz/DEP_DIRECTV_PLUS/index.m3u8
+#EXTINF:-1 ,CLARO SPORT LAT
+https://claro-jw.cdn.vustreams.com/live/channel05/live.isml/master.m3u8 
+#EXTINF:-1 ,CLARO SPORTS HD
+http://ipeteve.com/php/SR_REGIO_250721/tp.php?c=2564&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 ,CLARO SPORT 2 OP2
+https://claro-jw.cdn.vustreams.com/live/channel06/live.isml/master.m3u8
+#EXTINF:-1 ,CLARO PORT 3
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF:-1 ,CLARO PORT 4
+https://claro-jw.cdn.vustreams.com/live/channel08/live.isml/master.m3u8
+#EXTINF:-1 ,WIN SPORT OP2
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1415
+#EXTINF:-1 ,WIN SPORT PLUS
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1417
+#EXTINF:-1 ,WIN SPORT PLUS OP4
+http://disfruta.net:80/2JUANDURAN1112/MrTRtmQjjq/1418
+#EXTINF:-1 ,ESPN EXTRA
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPNEXTRA/hls/index.m3u8
+#EXTINF:-1 ,FOX SPORT OP 2
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/index.m3u8
+#EXTINF:-1 ,FOX SPORT 3 OP2
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT3/hls/index.m3u8 
+#EXTINF:-1 ,ESTRELLA TELENOVELA 
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8 
+#EXTINF:-1 ,DREIKOTV CANAL 24/7
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#EXTINF:-1 ,Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 ,TELEMUNDO INTERNACIONAL OP 2
+http://51.81.83.56:8081/live/TelemundoMiami/chunks.m3u8
+#EXTINF:-1 ,NACIONAL GEOGRAPHIC CHANEL
+http://158.69.62.208:8081/live/NATGEO_HD/chunks.m3u8
+#EXTINF:-1 ,HISTORY PREMIUN
+http://158.69.62.208:8081/live/HISTORY_CHANNEL_HD/chunks.m3u8
+#EXTINF:-1 ,NAT NEO WILD OP 2
+http://158.69.62.208:8081/live/NATGEO_WILD_HD/chunks.m3u8
+#EXTINF:-1 ,MUSICA POP
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:-1 ,HTV
+http://187.188.147.142:8000/play/a01j/index.m3u8
+#EXTINF:-1 ,LATINO UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,MUSICA TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 ,TV EXITOS
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+#EXTINF:-1 ,MUSICA ROCK
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1 ,MUSICA HITS
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
